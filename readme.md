@@ -4,4 +4,6 @@ It plots time series of different countries around the world and several US stat
 
 ![Github COVID Image](https://raw.githubusercontent.com/charles-n/time-series-ggplot-covid19/master/new_cases.png)
 
+![Github COVID Image](https://raw.githubusercontent.com/charles-n/time-series-ggplot-covid19/master/daily_new_cases.png)
+
 
